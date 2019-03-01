@@ -222,6 +222,7 @@ html {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  min-height: 75px;
   justify-content: flex-end;
   align-items: center;
   background-color: #131418;
@@ -650,9 +651,9 @@ figure {
 }
 
 .bottom-tab-content{
-  width: 100%;
-  height: 100%;
-  background-color: #131418;
+  /*width: 100%;*/
+  /*height: 100%;*/
+  /*background-color: #131418;*/
 }
 
 @media only screen and (max-width: 1100px) {
